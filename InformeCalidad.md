@@ -2,15 +2,14 @@
 
 # Informe – Proyecto Neural Quorum Governance (stellar-community-fund-contracts)
 
-# Informe de Calidad del Proyecto Neural Quorum Governance (Stellar Community Fund)
 
-## 1. Propósito Educativo 🧠
+## 1. Propósito Educativo 
 Este informe tiene como objetivo aplicar los principios y métricas de calidad del software al proyecto **Neural Quorum Governance**, parte del repositorio oficial [stellar-community-fund-contracts](https://github.com/stellar/stellar-community-fund-contracts).  
 El análisis busca fortalecer la comprensión de metodologías como **CMMI** y **MoProSoft** mediante la evaluación de un proyecto real de contratos inteligentes sobre la red Stellar.
 
 ---
 
-## 2. Estructura de las Actividades y Subactividades 🚀
+## 2. Estructura de las Actividades y Subactividades 
 
 ### Fase 1: Selección y Exploración del Proyecto
 - **Selección del Proyecto:**  
@@ -49,7 +48,7 @@ Se eligió el repositorio oficial del Stellar Community Fund. Contiene contratos
 
 ---
 
-## 3. Evidencias 📂
+## 3. Evidencias 
 - Repositorio oficial: [stellar-community-fund-contracts](https://github.com/stellar/stellar-community-fund-contracts)  
 - Issues de referencia: [#42](https://github.com/stellar/stellar-community-fund-contracts/issues/42), [#45](https://github.com/stellar/stellar-community-fund-contracts/issues/45).  
 - Archivos de pruebas: módulos de Rust en el repositorio (`#[test]`).  
