@@ -1,6 +1,6 @@
 
 
-# Informe Neural Quorum Governance (Stellar Community Fund)
+# Informe – Proyecto Neural Quorum Governance (stellar-community-fund-contracts)
 
 ## 1. Propósito Educativo '
 
